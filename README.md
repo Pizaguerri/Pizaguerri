@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pizaguerri
-- 👀 I’m interested in Photography and Anthopology
+- 👋 Hi, I’m @Pizaguerri, from Mallorca, Spain.
+- 👀 I’m interested in Photography and Anthropology.
 - 🌱 I’m currently learning Python and Data Visualization
 - 📫 How to reach me:
     - Twitter: @Pizzaguerri
