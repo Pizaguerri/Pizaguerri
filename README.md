@@ -2,7 +2,7 @@
 - 👀 I’m interested in Photography and Anthropology.
 - 🌱 I’m currently learning Python and Data Visualization
 - 📫 How to reach me:
-    - Twitter: @Pizzaguerri
+    - Mastodon or Bluesky: @Pizzaguerri
 
 <!---
 Pizaguerri/Pizaguerri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
